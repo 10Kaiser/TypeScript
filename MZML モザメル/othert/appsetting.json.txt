@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+    "AllowedHosts": "*",
+    "ConnectionStrings": {
+        "DefaultConection": "Server=1A11\\LOCAL; User Id=sa; Password=admin123; Database=fn_367 TrustServerCertifcate=true;"
+    }
+}
