@@ -1,0 +1,2 @@
+tsc --innit/npx tsc --innit
+tsc/npx tsc
